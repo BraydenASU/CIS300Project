@@ -23,6 +23,10 @@ header {
   border-bottom: 1px solid black;
 }
 
+h2 {
+  font-size: 2em;
+}
+
 .intro p {
   line-height: 2;
   text-indent: 4em;
