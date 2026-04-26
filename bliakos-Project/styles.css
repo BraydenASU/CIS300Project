@@ -23,6 +23,11 @@ header {
   border-bottom: 1px solid black;
 }
 
+.intro p {
+  line-height: 2;
+  text-indent: 4em;
+}
+
 .intro ul {
   line-height: 2;
 }
