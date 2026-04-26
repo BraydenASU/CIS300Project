@@ -322,7 +322,7 @@ aside a:hover {
 }
 
 #casualhero1 {
-  background-image: url();
+  background-image: url(minecraft.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -330,7 +330,7 @@ aside a:hover {
 }
 
 #casualhero2 {
-  background-image: url();
+  background-image: url(stardew.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -338,23 +338,23 @@ aside a:hover {
 }
 
 #casualhero2-2 {
-  background-image: url();
+  background-image: url(stardew2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #casualhero3 {
-  background-image: url();
+  background-image: url(animalcrossing.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #casualhero3-2 {
-  background-image: url();
+  background-image: url(animalcrossing2.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -362,7 +362,7 @@ aside a:hover {
 }
 
 #casualhero4 {
-  background-image: url();
+  background-image: url(sims.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -370,15 +370,15 @@ aside a:hover {
 }
 
 #casualhero4-2 {
-  background-image: url();
+  background-image: url(sims2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #casualhero5 {
-  background-image: url();
+  background-image: url(slimerancher.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -386,15 +386,15 @@ aside a:hover {
 }
 
 #casualhero5-2 {
-  background-image: url();
+  background-image: url(slimerancher2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #casualhero6 {
-  background-image: url();
+  background-image: url(terraria.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -402,15 +402,15 @@ aside a:hover {
 }
 
 #casualhero6-2 {
-  background-image: url();
+  background-image: url(terraria2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #casualhero7 {
-  background-image: url();
+  background-image: url(dreamlight.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -418,15 +418,15 @@ aside a:hover {
 }
 
 #casualhero7-2 {
-  background-image: url();
+  background-image: url(dreamlight2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #casualhero8 {
-  background-image: url();
+  background-image: url(dave.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -434,15 +434,15 @@ aside a:hover {
 }
 
 #casualhero8-2 {
-  background-image: url();
+  background-image: url(dave2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #casualhero9 {
-  background-image: url();
+  background-image: url(bloons.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -450,15 +450,15 @@ aside a:hover {
 }
 
 #casualhero9-2 {
-  background-image: url();
+  background-image: url(bloons2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #casualhero10 {
-  background-image: url();
+  background-image: url(powerwash.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -466,10 +466,10 @@ aside a:hover {
 }
 
 #casualhero10-2 {
-  background-image: url();
+  background-image: url(powerwash2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
