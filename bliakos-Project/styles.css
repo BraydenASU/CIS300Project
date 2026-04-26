@@ -285,7 +285,7 @@ aside a:hover {
   background-image: url(portal2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
@@ -301,7 +301,7 @@ aside a:hover {
   background-image: url(hades22.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
@@ -322,14 +322,6 @@ aside a:hover {
 }
 
 #casualhero1 {
-  background-image: url();
-  height: 400px;
-  background-size: 100% 100%;
-  flex: 1;
-  background-repeat: no-repeat;
-}
-
-#casualhero1-2 {
   background-image: url();
   height: 400px;
   background-size: 100% 100%;
@@ -482,15 +474,7 @@ aside a:hover {
 }
 
 #comphero1 {
-  background-image: url();
-  height: 400px;
-  background-size: 100% 100%;
-  flex: 1;
-  background-repeat: no-repeat;
-}
-
-#comphero1-2 {
-  background-image: url();
+  background-image: url(league.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -498,7 +482,7 @@ aside a:hover {
 }
 
 #comphero2 {
-  background-image: url();
+  background-image: url(cs2.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -506,7 +490,7 @@ aside a:hover {
 }
 
 #comphero2-2 {
-  background-image: url();
+  background-image: url(cs22.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -514,7 +498,7 @@ aside a:hover {
 }
 
 #comphero3 {
-  background-image: url();
+  background-image: url(val.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -522,15 +506,15 @@ aside a:hover {
 }
 
 #comphero3-2 {
-  background-image: url();
+  background-image: url(val2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #comphero4 {
-  background-image: url();
+  background-image: url(dota.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -538,15 +522,15 @@ aside a:hover {
 }
 
 #comphero4-2 {
-  background-image: url();
+  background-image: url(dota2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #comphero5 {
-  background-image: url();
+  background-image: url(smash.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -554,7 +538,7 @@ aside a:hover {
 }
 
 #comphero5-2 {
-  background-image: url();
+  background-image: url(smash2.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -562,7 +546,7 @@ aside a:hover {
 }
 
 #comphero6 {
-  background-image: url();
+  background-image: url(rocketleague.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -570,15 +554,15 @@ aside a:hover {
 }
 
 #comphero6-2 {
-  background-image: url();
+  background-image: url(rocketleague2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #comphero7 {
-  background-image: url();
+  background-image: url(apex.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -586,15 +570,15 @@ aside a:hover {
 }
 
 #comphero7-2 {
-  background-image: url();
+  background-image: url(apex2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #comphero8 {
-  background-image: url();
+  background-image: url(fortnite.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -602,15 +586,15 @@ aside a:hover {
 }
 
 #comphero8-2 {
-  background-image: url();
+  background-image: url(fortnite2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
 #comphero9 {
-  background-image: url();
+  background-image: url(streetfighter.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -618,7 +602,7 @@ aside a:hover {
 }
 
 #comphero9-2 {
-  background-image: url();
+  background-image: url(streetfighter2.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -626,7 +610,7 @@ aside a:hover {
 }
 
 #comphero10 {
-  background-image: url();
+  background-image: url(ow2.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 1;
@@ -634,10 +618,10 @@ aside a:hover {
 }
 
 #comphero10-2 {
-  background-image: url();
+  background-image: url(ow22.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
