@@ -196,14 +196,6 @@ aside a:hover {
   background-repeat: no-repeat;
 }
 
-#homehero1-2 {
-  background-image: url(BotW2.jpg);
-  height: 400px;
-  background-size: 100% 100%;
-  flex: 1;
-  background-repeat: no-repeat;
-}
-
 #homehero2 {
   background-image: url(rdr2.jpg);
   height: 400px;
