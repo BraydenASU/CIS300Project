@@ -7,6 +7,7 @@
   </head>
 
   <body>
+    <div id="top"></div>
     <header>
       <h1>What Should I Play?</h1>
       <p>
@@ -35,7 +36,8 @@
         <!-- MAIN CONTENT -->
         <main>
           <div class="intro">
-            <video autoplay loop width="600"> <!-- autoplay loop (no controls on purpose) -->
+            <video autoplay loop width="600">
+              <!-- autoplay loop (no controls on purpose) -->
               <source src="videogames.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
@@ -104,6 +106,32 @@
 
       <div class="container2">
         <h2>Top 10 Games of the Past 10 Years</h2>
+
+        <div class="toc">
+          <h3>Table of Contents</h3>
+          <ul>
+            <li><a href="#home10">10. Persona 5 Royal</a></li>
+            <li><a href="#home9">9. Hades II</a></li>
+            <li><a href="#home8">8. Portal: Companion Collection</a></li>
+            <li>
+              <a href="#home7">7. The Legend of Zelda: Tears of the Kingdom</a>
+            </li>
+            <li><a href="#home6">6. Elden Ring</a></li>
+            <li>
+              <a href="#home5">
+                5. The House in Fata Morgana - Dreams of the Revenants
+                Edition</a
+              >
+            </li>
+            <li><a href="#home4">4. Baldur's Gate 3</a></li>
+            <li><a href="#home3">3. Super Mario Odyssey</a></li>
+            <li><a href="#home2">2. Red Dead Redemption 2</a></li>
+            <li>
+              <a href="#home1">1. The Legend of Zelda: Breath of the Wild</a>
+            </li>
+          </ul>
+        </div>
+
         <p>
           <small
             >The top 10 games listed are based on Metacritic's Metascore
@@ -113,7 +141,7 @@
 
         <div class="game-list">
           <div class="game-card">
-            <h3>10. Persona 5 Royal</h3>
+            <h3 id="home10">10. Persona 5 Royal</h3>
             <p class="caption">
               Everything good about the original, with even more content.
             </p>
@@ -133,7 +161,7 @@
           </div>
 
           <div class="game-card">
-            <h3>9. Hades II</h3>
+            <h3 id="home9">9. Hades II</h3>
             <p class="caption">Somehow, it's even better than the first one!</p>
 
             <div class="herocontainer">
@@ -150,7 +178,7 @@
           </div>
 
           <div class="game-card">
-            <h3>8. Portal: Companion Collection</h3>
+            <h3 id="home8">8. Portal: Companion Collection</h3>
             <p class="caption">Two award-winning games in one collection.</p>
 
             <div class="herocontainer">
@@ -168,7 +196,7 @@
           </div>
 
           <div class="game-card">
-            <h3>7. The Legend of Zelda: Tears of the Kingdom</h3>
+            <h3 id="home7">7. The Legend of Zelda: Tears of the Kingdom</h3>
             <p class="caption">
               The amazing sequel that brings new mechanics and exploration.
             </p>
@@ -188,7 +216,7 @@
           </div>
 
           <div class="game-card">
-            <h3>6. Elden Ring</h3>
+            <h3 id="home6">6. Elden Ring</h3>
             <p class="caption">
               The critically acclaimed open-world RPG from the creators of Dark
               Souls.
@@ -209,7 +237,7 @@
           </div>
 
           <div class="game-card">
-            <h3>
+            <h3 id="home5">
               5. The House in Fata Morgana - Dreams of the Revenants Edition
             </h3>
             <p class="caption">
@@ -232,7 +260,7 @@
           </div>
 
           <div class="game-card">
-            <h3>4. Baldur's Gate 3</h3>
+            <h3 id="home4">4. Baldur's Gate 3</h3>
             <p class="caption">
               This is a fantasy RPG that allows players to create their own
               character and make choices that affect the story.
@@ -253,7 +281,7 @@
           </div>
 
           <div class="game-card">
-            <h3>3. Super Mario Odyssey</h3>
+            <h3 id="home3">3. Super Mario Odyssey</h3>
             <p class="caption">
               A huge open-world platformer with incredible creativity
             </p>
@@ -274,7 +302,7 @@
           </div>
 
           <div class="game-card">
-            <h3>2. Red Dead Redemption 2</h3>
+            <h3 id="home2">2. Red Dead Redemption 2</h3>
             <p class="caption">
               A story-driven Western adventure that will make you screem
               "YEE-HAW!"
@@ -296,7 +324,7 @@
           </div>
 
           <div class="game-card">
-            <h3>1. The Legend of Zelda: Breath of the Wild</h3>
+            <h3 id="home1">1. The Legend of Zelda: Breath of the Wild</h3>
             <p class="caption">Proof they did it right the first time</p>
 
             <div class="herocontainer">
@@ -386,6 +414,8 @@
         <td>PC, PlayStation, Xbox, Switch</td>
       </tr>
     </table>
+
+    <a href="#top" class="back-to-top">↑ Top</a>
 
     <footer>
       <div class="footer-container">
