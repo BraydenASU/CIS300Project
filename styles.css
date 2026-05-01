@@ -221,7 +221,7 @@ aside a:hover {
   background-image: url(baldursgate2.jpg);
   height: 400px;
   background-size: 100% 100%;
-  flex: 1;
+  flex: 2;
   background-repeat: no-repeat;
 }
 
@@ -619,6 +619,158 @@ aside a:hover {
 
 #comphero10-2 {
   background-image: url(ow22.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero1 {
+  background-image: url(lastofus.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero2 {
+  background-image: url(rdr2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero2-2 {
+  background-image: url(rdr22.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero3 {
+  background-image: url(witcher.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero3-2 {
+  background-image: url(witcher2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero4 {
+  background-image: url(gow.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero4-2 {
+  background-image: url(gow2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero5 {
+  background-image: url(clairobscur.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero5-2 {
+  background-image: url(clairobscur2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero6 {
+  background-image: url(baldursgate.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero6-2 {
+  background-image: url(bg32.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero7 {
+  background-image: url(masseffect.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero7-2 {
+  background-image: url(masseffect2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero8 {
+  background-image: url(cyberpunk.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero8-2 {
+  background-image: url(cyberpunk2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero9 {
+  background-image: url(skyrim.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero9-2 {
+  background-image: url(skyrim2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#storyhero10 {
+  background-image: url(gta5.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#storyhero10-2 {
+  background-image: url(gta52.jpg);
   height: 400px;
   background-size: 100% 100%;
   flex: 2;

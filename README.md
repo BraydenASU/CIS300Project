@@ -1,2 +1,1 @@
-This project is a website to help gamers decide what to play based off of their preferences and the top games right
-now. This will keep their browsing time to a minimum and their gaming time optimized and maximized.
+This project is a website to help gamers decide what to play based off of their preferences and the top games right now. This will keep their browsing time to a minimum and their gaming time optimized and maximized.
