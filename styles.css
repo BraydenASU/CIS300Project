@@ -143,7 +143,7 @@ aside a:hover {
 
 /* GAME CARD */
 .game-card {
-  border-top: 2px solid black;
+  border-top: 3px solid black;
   padding-top: 1em;
 }
 
@@ -1096,6 +1096,19 @@ form {
 input,
 textarea {
   margin-bottom: 0.5em;
+}
+
+/* TABLE */
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  border: 1px solid black;
+  padding: 10px 15px;
+  text-align: center;
 }
 
 /* FOOTER */
