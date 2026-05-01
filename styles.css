@@ -31,7 +31,7 @@ h2 {
 .compintro p,
 .storyintro p,
 .hardcoreintro p,
-.friendsintro p {
+.friendintro p {
   line-height: 2;
   text-indent: 4em;
 }
@@ -771,6 +771,310 @@ aside a:hover {
 
 #storyhero10-2 {
   background-image: url(gta52.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero1 {
+  background-image: url(sekiro.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero2 {
+  background-image: url(battletoads.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero2-2 {
+  background-image: url(battletoads2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero3 {
+  background-image: url(darksouls.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero3-2 {
+  background-image: url(darksouls2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero4 {
+  background-image: url(celeste.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero4-2 {
+  background-image: url(celeste2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero5 {
+  background-image: url(bloodborne.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero5-2 {
+  background-image: url(bloodborne2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero6 {
+  background-image: url(eldenring.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero6-2 {
+  background-image: url(eldenring2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero7 {
+  background-image: url(meatboy.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero7-2 {
+  background-image: url(meatboy2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero8 {
+  background-image: url(cuphead.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero8-2 {
+  background-image: url(cuphead2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero9 {
+  background-image: url(returnal.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero9-2 {
+  background-image: url(returnal2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero10 {
+  background-image: url(hollowknight.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#hardcorehero10-2 {
+  background-image: url(hollowknight2.jpg);
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero1 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero2-2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero3 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero3-2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero4 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero4-2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero5 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero5-2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero6 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero6-2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero7 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero7-2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero8 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero8-2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero9 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero9-2 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 2;
+  background-repeat: no-repeat;
+}
+
+#friendhero10 {
+  background-image: url();
+  height: 400px;
+  background-size: 100% 100%;
+  flex: 1;
+  background-repeat: no-repeat;
+}
+
+#friendhero10-2 {
+  background-image: url();
   height: 400px;
   background-size: 100% 100%;
   flex: 2;
